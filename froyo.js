@@ -5,7 +5,7 @@ let vanillaCount=0;
 let strawberryCount=0;
 let coffeeCount=0;
 
-
+//this is for the edge case, it is NOT a requierment
 const noSpacesFlavors = froyo.map(flavor => {
     return flavor.trim()
 });
